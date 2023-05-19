@@ -6,7 +6,7 @@
 Email: marcus41881653@gmail.com
 Instagram: marcuslaiboyy
 
-🎸 Check Out My Guitar-Tab Editor!! - https://tablature-editor.herokuapp.com/
+🎸 Check Out My Guitar-Tab Editor!! - https://tablature-editor.netlify.app/
 
-⌨️ Check out My Typing Test Webapp!! - https://minimal-typing-test.herokuapp.com/
+⌨️ Check out some websites I made!! - https://ubcdsci.club/ & https://www.pca2023.com/
 
