@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on any interesting projects!
 - 📫 How to reach me: 
 Email: marcus41881653@gmail.com
-Instagram: marcuslaiboyy
 
 🎸 Check Out My Guitar-Tab Editor!! - https://tablature-editor.netlify.app/
 
